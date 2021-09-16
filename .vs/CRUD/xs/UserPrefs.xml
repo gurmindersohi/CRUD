@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A0BA6CD4-D46A-4927-8D41-1E261CEBD29D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CRUD FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD/Views/Index.cshtml">
+    <Files>
+      <File FileName="CRUD/Properties/launchSettings.json" Line="25" Column="8" />
+      <File FileName="CRUD/Services/EmployeeServices.cs" Line="9" Column="10" />
+      <File FileName="CRUD/Services/IEmployeeServices.cs" Line="8" Column="32" />
+      <File FileName="CRUD/Models/Employee.cs" Line="8" Column="45" />
+      <File FileName="CRUD/Controllers/EmployeeController.cs" Line="11" Column="6" />
+      <File FileName="CRUD/Views/Index.cshtml" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUD" expanded="True">
+            <Node name="CRUD" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
