@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{A0BA6CD4-D46A-4927-8D41-1E261CEBD29D}|Default">
   <MonoDevelop.Ide.ItemProperties.CRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD/Services/EmployeeServices.cs">
     <Files>
       <File FileName="CRUD/Services/EmployeeServices.cs" Line="19" Column="62" />
       <File FileName="CRUD/Controllers/EmployeeController.cs" />
       <File FileName="CRUD/Services/IEmployeeServices.cs" />
       <File FileName="CRUD/Views/Index.cshtml" />
-      <File FileName="CRUD/Startup.cs" Line="29" Column="1" />
+      <File FileName="CRUD/Startup.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
